@@ -24,6 +24,7 @@ public class Emp {
 		A a = new A("niks", 02, 12000, "kandibvali");
 		System.out.println(a);
 		System.out.println("nikhil");
+		System.out.println("10.03.25");
 
 	}
 }

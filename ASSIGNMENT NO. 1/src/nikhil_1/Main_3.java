@@ -10,6 +10,8 @@ public class Main_3 {
 		System.out.println(z.a);
 		System.out.println(z.c);
 		System.out.println(z.d);
+		System.out.println("update 1.01");
+		System.out.println("1221");
 
 	}
 

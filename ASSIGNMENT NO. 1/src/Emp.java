@@ -23,7 +23,7 @@ public class Emp {
 	public static void main(String[] args) {
 		A a = new A("niks", 02, 12000, "kandibvali");
 		System.out.println(a);
-		
+		System.out.println("nikhil");
 
 	}
 }

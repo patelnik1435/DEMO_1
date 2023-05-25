@@ -12,6 +12,7 @@ public class Main_1 {
 		System.out.println(g.b);
 		System.out.println(g.c);
 		System.out.println(g.d);
+		System.out.println("update1.0.1");
 
 	}
 
